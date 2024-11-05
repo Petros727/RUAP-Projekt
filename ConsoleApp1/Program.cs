@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ovo je moja prva poruka Marko Petričević");
+            Console.WriteLine("ovo je moja prva poruka Marko Petričević i broj indeksa je 1232141423423");
         }
     }
 }
