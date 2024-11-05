@@ -1,1 +1,1 @@
-Moj projekt za RUAP
+moja repozitorija za RUAP
