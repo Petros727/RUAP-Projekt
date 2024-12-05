@@ -23,7 +23,7 @@ Name <input type="text" name="name" id="name"/></br> Email <input type="text" na
 //TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved earlier from the Azure Portal. $host = "value of Data Source";
 $host = "marko-server12334.mysql.database.azure.com";
 $user = "ibbanepfwp";
-$pwd = "d$qUq0jOcwONQl77";
+$pwd = 'd$qUq0jOcwONQl77';
 $db = "marko-database";
 // Connect to database.
 
